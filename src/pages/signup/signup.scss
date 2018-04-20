@@ -1,0 +1,26 @@
+page-signup {
+	.error{
+	  color:red;
+	 }
+	 img{
+    	border-radius: 4px;
+    	padding: 5px;
+    	width: 150px;
+	}
+	.scroll-content{
+		text-align: center;
+	}
+    .validator-error {
+  	  color: color($colors, danger);
+      padding-top: 8px;
+      padding-left: 16px;
+	}
+	item-md {
+    font-size: 1.0rem;
+	}
+
+	.content-md {
+    color: #7b7d7d;
+}
+}
+
